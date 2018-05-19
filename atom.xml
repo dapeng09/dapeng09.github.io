@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-05-19T14:21:05.000Z</updated>
+  <updated>2018-05-19T14:28:21.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://yoursite.com/2018/05/19/Programmer-s-Joke/"/>
     <id>http://yoursite.com/2018/05/19/Programmer-s-Joke/</id>
     <published>2018-05-19T14:00:57.000Z</published>
-    <updated>2018-05-19T14:21:05.000Z</updated>
+    <updated>2018-05-19T14:28:21.000Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="To-understand-recursion-you-must-understand-recursion"><a href="#To-understand-recursion-you-must-understand-recursion" class="headerlink" title="To understand recursion, you must understand recursion"></a>To understand recursion, you must understand recursion</h3><h3 id="This-Fibonacci-joke-is-just-as-bad-as-the-last-two-that-you-heard-combined"><a href="#This-Fibonacci-joke-is-just-as-bad-as-the-last-two-that-you-heard-combined" class="headerlink" title="This Fibonacci joke is just as bad as the last two that you heard combined"></a>This Fibonacci joke is just as bad as the last two that you heard combined</h3><h3 id="XML-is-like-violence-if-it-doesn’t-solve-your-problem-you-aren’t-using-enough-of-it"><a href="#XML-is-like-violence-if-it-doesn’t-solve-your-problem-you-aren’t-using-enough-of-it" class="headerlink" title="XML is like violence: if it doesn’t solve your problem, you aren’t using enough of it"></a>XML is like violence: if it doesn’t solve your problem, you aren’t using enough of it</h3>]]></content>
+    <content type="html"><![CDATA[<h2 id="To-understand-recursion-you-must-understand-recursion"><a href="#To-understand-recursion-you-must-understand-recursion" class="headerlink" title="To understand recursion, you must understand recursion"></a>To understand recursion, you must understand recursion</h2><h2 id="This-Fibonacci-joke-is-just-as-bad-as-the-last-two-that-you-heard-combined"><a href="#This-Fibonacci-joke-is-just-as-bad-as-the-last-two-that-you-heard-combined" class="headerlink" title="This Fibonacci joke is just as bad as the last two that you heard combined"></a>This Fibonacci joke is just as bad as the last two that you heard combined</h2><h2 id="XML-is-like-violence-if-it-doesn’t-solve-your-problem-you-aren’t-using-enough-of-it"><a href="#XML-is-like-violence-if-it-doesn’t-solve-your-problem-you-aren’t-using-enough-of-it" class="headerlink" title="XML is like violence: if it doesn’t solve your problem, you aren’t using enough of it"></a>XML is like violence: if it doesn’t solve your problem, you aren’t using enough of it</h2>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h3 id=&quot;To-understand-recursion-you-must-understand-recursion&quot;&gt;&lt;a href=&quot;#To-understand-recursion-you-must-understand-recursion&quot; class=&quot;heade
+        &lt;h2 id=&quot;To-understand-recursion-you-must-understand-recursion&quot;&gt;&lt;a href=&quot;#To-understand-recursion-you-must-understand-recursion&quot; class=&quot;heade
       
     
     </summary>
